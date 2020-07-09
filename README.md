@@ -6,7 +6,7 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
 ---
 
 - Project
-  - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/)i3wm搭載エディションのための設定マネージャ
+  - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/) i3wm 搭載エディションのための設定マネージャ
   - [MarkStudy](https://github.com/watasuke102/MarkStudy) : 学習特化をうたう、マークアップによる装飾が可能なテキストエディタ  
   - [TimeTree-NoticeBot](https://github.com/watasuke102/TimeTree-NoticeBot) : TimeTreeの予定を取得し、Discordで通知  
   
