@@ -1,9 +1,9 @@
 # watasuke102
-とある高専生のわたすけ（@Watasuke102）です。学生チーム「Fascode Network」に所属しています。  
-ArchLinux+KDE Plasmaを使い、ゲームやツールを作っています。
-2004/10/21日本生まれ  
+2004/10/21日本生まれ、現在高専生の **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「Fascode Network」に所属しています。  
+ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。
+  
 
-C++,OpenSiv3D (little: C,DxLib/Python)  
+C++,OpenSiv3D・Qt (little: C,DxLib/Python)  
 
 - Project
   - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/)i3wm搭載エディションのための設定マネージャ
