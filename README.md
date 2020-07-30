@@ -3,7 +3,8 @@
 
 ![Age: 16](https://img.shields.io/badge/Age-15-blue?style=for-the-badge)
 ![KOSEN: 19s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
-![Contributor: 1](https://img.shields.io/badge/contributors-1-red?style=for-the-badge)
+![Contributor: 1](https://img.shields.io/badge/contributors-1-red?style=for-the-badge)  
+![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
 
 2004/10/21日本生まれ、現在高専生の **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「Fascode Network」に所属しています。  
 ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
