@@ -2,7 +2,7 @@
 
 
 ![Age: 16](https://img.shields.io/badge/Age-15-blue?style=for-the-badge)
-![KOSEN: 19s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
+![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 ![Contributor: 1](https://img.shields.io/badge/contributors-1-red?style=for-the-badge)  
 ![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
 
