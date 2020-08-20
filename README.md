@@ -6,6 +6,8 @@
 ![Contributor: 1](https://img.shields.io/badge/contributors-1-red?style=for-the-badge)  
 ![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
 
+[![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/watasuke102)
+
 2004/10/21日本生まれ、現在高専生の **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「Fascode Network」に所属しています。  
 ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
 使用可能言語: C++,OpenSiv3D・Qt (出来ないこともない: C,DxLib/Python)  
@@ -29,4 +31,3 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
 
-[![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/watasuke102)
