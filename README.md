@@ -28,3 +28,5 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
   - HomePage: [わたすけのへや](http://menster.wp.xdomain.jp)  
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
+
+[![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/watasuke102)
