@@ -24,10 +24,6 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
   - [homepage](https://github.com/watasuke102/homepage) : HTMLの練習として用意したホームページ（内容は[こちら](https://watasuke.tk)）  
   - [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware) : MIT LICENSEとSUSHI-WARE LICENSEの重要な部分を合わせ、作者(著作権者)の著作権表示を残しつつソフトウェアを自由に扱ってもらうことが可能になりました
   
-  [未完成]
-  - [Action-remake](https://github.com/watasuke102/Action-remake) : OpenSiv3D製2D横スクロールアクション（当たり判定でつまづいています）
-  - [Programing-Starter](https://github.com/watasuke102/Programing-Starter) : ArchLinux上で動作するプログラミング環境構築マネージャ（肝心のインストール部分がうまく動かない）
-  
 - Link
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
   - HomePage: [わたすけのへや](http://menster.wp.xdomain.jp)  
