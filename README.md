@@ -1,7 +1,7 @@
 # watasuke102
 
 
-![Age: 16](https://img.shields.io/badge/Age-15-blueviolet?style=for-the-badge)
+![Age: 16](https://img.shields.io/badge/Age-15-orange?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-blue?style=for-the-badge)](https://fascode.net/en/)
 [![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)](https://github.com/watasuke102/mit-sushi-ware)  
