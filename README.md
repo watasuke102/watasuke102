@@ -4,8 +4,7 @@
 ![Age: 16](https://img.shields.io/badge/Age-15-blue?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-green?style=for-the-badge)](https://fascode.net/en/)
-![Contributor: 1](https://img.shields.io/badge/contributors-1-red?style=for-the-badge)  
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+[![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)](https://github.com/watasuke102/mit-sushi-ware)  
 
 ![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)
 ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
