@@ -28,4 +28,3 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
   - HomePage: [わたすけのへや](http://menster.wp.xdomain.jp)  
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
-
