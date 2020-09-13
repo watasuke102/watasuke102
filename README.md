@@ -1,6 +1,5 @@
 # watasuke102
 
-
 ![Age: 16](https://img.shields.io/badge/Age-15-orange?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-blue?style=for-the-badge)](https://fascode.net/en/)
