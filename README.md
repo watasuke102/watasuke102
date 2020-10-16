@@ -11,7 +11,7 @@
 
 kosen20sの **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「FascodeNetwork」に所属しています。  
 ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
-使用可能言語: C++,OpenSiv3D・Qt,Python  
+つかえるもの: C++・Python　OpenSiv3D・Qt・Flutter  
 
 ---
 
