@@ -9,13 +9,14 @@
 ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
 
 
-kosen20sの **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「Fascode Network」に所属しています。  
+kosen20sの **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「FascodeNetwork」に所属しています。  
 ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
 使用可能言語: C++,OpenSiv3D・Qt,Python  
 
 ---
 
 - Project
+  - [ExpNote](https://github.com/watasuke102/ExpNote) : Flutter製の簡易的な所持金管理アプリ
   - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/) i3wm 搭載エディションのための設定マネージャ
   - [MarkStudy](https://github.com/watasuke102/MarkStudy) : 学習特化をうたう、マークアップによる装飾が可能なテキストエディタ  
   - [TimeTree-NoticeBot](https://github.com/watasuke102/TimeTree-NoticeBot) : TimeTreeの予定を取得し、Discordで通知  
