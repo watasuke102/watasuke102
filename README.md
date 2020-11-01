@@ -11,9 +11,14 @@
 
 kosen20sの **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「FascodeNetwork」に所属しています。  
 ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
-つかえるもの: C++・Python　OpenSiv3D・Qt・Flutter  
 
 ---
+- Skills (詳細は[ポートフォリオ](https://watasuke.tk/portfolio)に）
+  - C/C++
+    - OpenSiv3D
+    - Qt
+  - Python
+  - Dart + Flutter
 
 - Project
   - [ExpNote](https://github.com/watasuke102/ExpNote) : Flutter製の簡易的な所持金管理アプリ
