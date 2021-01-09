@@ -19,6 +19,7 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
     - Qt
   - Python
   - Dart + Flutter
+  - TypeScript + Next.js (勉強中)
 
 - Project
   - [ExpNote](https://github.com/watasuke102/ExpNote) : Flutter製の簡易的な所持金管理アプリ
