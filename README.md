@@ -20,6 +20,7 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
   - Python
   - Dart + Flutter
   - TypeScript + Next.js (勉強中)
+  - PHP (学習中)
 
 - Project
   - [TAGether](https://github.com/watasuke102/TAGether) : クラス内でテスト対策などのテストを共有する
