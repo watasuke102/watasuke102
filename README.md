@@ -1,4 +1,5 @@
 # watasuke102
+kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
 
 ![Age: 16](https://img.shields.io/badge/Age-16-orange?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
@@ -7,10 +8,6 @@
 
 ![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)
 ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
-
-
-kosen20sの **わたすけ** （[@Watasuke102](https://twitter.com/Watasuke102)）です。学生チーム「FascodeNetwork」に所属しています。  
-ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツールを作っています。  
 
 ---
 - Skills (詳細は[ポートフォリオ](https://watasuke.tk/portfolio)に）
