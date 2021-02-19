@@ -19,11 +19,10 @@ ArchLinux+KDE Plasma上で、C++とOpenSiv3DやQtを使い、ゲームやツー�
     - Qt
   - Python
   - Dart + Flutter
-  - TypeScript + Next.js (勉強中)
-  - PHP (学習中)
+  - TypeScript + React (Next.js)
 
 - Project
-  - [TAGether](https://github.com/watasuke102/TAGether) : クラス内でテスト対策などのテストを共有する
+  - [TAGether](https://github.com/watasuke102/TAGether) : クラス内で定期テスト対策問題などを共有する
   - [ExpNote](https://github.com/watasuke102/ExpNote) : Flutter製の簡易的な所持金管理アプリ
   - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/) i3wm 搭載エディションのための設定マネージャ
   - [MarkStudy](https://github.com/watasuke102/MarkStudy) : 学習特化をうたう、マークアップによる装飾が可能なテキストエディタ  
