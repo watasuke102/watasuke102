@@ -1,8 +1,6 @@
 # watasuke102
 kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
 
----
-
 ![Age: 16](https://img.shields.io/badge/Age-16-orange?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-blue?style=for-the-badge)](https://fascode.net/en/)
@@ -36,6 +34,6 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
   
 ## Link
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
-  - HomePage: [わたすけのへや](http://menster.wp.xdomain.jp)  
+  - HomePage: [わたすけのへや](https://watasuke.tk)  
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
