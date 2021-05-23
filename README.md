@@ -4,7 +4,7 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
 ![Age: 16](https://img.shields.io/badge/Age-16-orange?style=for-the-badge)
 ![KOSEN: 20s](https://img.shields.io/badge/KOSEN-20s-green?style=for-the-badge)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-blue?style=for-the-badge)](https://fascode.net/en/)
-[![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/MIT-SUSHI-WARE.svg)](https://github.com/watasuke102/mit-sushi-ware)  
+[![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)](https://github.com/watasuke102/mit-sushi-ware)  
 
 ![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight)
 ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
