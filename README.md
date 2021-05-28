@@ -20,17 +20,43 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
     - Qt
   - Python
   - Dart + Flutter
-  - TypeScript + React (Next.js)
+  - TypeScript + React (Next.js, Gatsby)
 
 ## Project
-  - [TAGether](https://github.com/watasuke102/TAGether) : クラス内で定期テスト対策問題などを共有する
-  - [ExpNote](https://github.com/watasuke102/ExpNote) : Flutter製の簡易的な所持金管理アプリ
-  - [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager) : [Alter Linux](https://fascode.net/projects/linux/alter/) i3wm 搭載エディションのための設定マネージャ
-  - [MarkStudy](https://github.com/watasuke102/MarkStudy) : 学習特化をうたう、マークアップによる装飾が可能なテキストエディタ  
-  - [TimeTree-NoticeBot](https://github.com/watasuke102/TimeTree-NoticeBot) : TimeTreeの予定を取得し、Discordで通知  
-  - [TimeTree-AddIvent](https://github.com/watasuke102/TimeTree-AddIvent) : TimeTreeの指定したカレンダーに予定を追加  
-  - [homepage](https://github.com/watasuke102/homepage) : HTMLの練習として用意したホームページ（URLは[こちら](https://watasuke.tk)）  
-  - [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware) : MIT LICENSEとSUSHI-WARE LICENSEの重要な部分を合わせ、作者(著作権者)の著作権表示を残しつつソフトウェアを自由に扱ってもらうことが可能になりました
+<table>
+  <tr>
+  <td><a href="https://github.com/watasuke102/TAGether">TAGether</a></td>
+  <td>クラス内で定期テスト対策問題などを共有する</td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/ExpNote">ExpNote</a></td>
+  <td>Flutter製の簡易的な所持金管理アプリ</td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/FascodeNet/alterlinux-i3-manager">alterlinux-i3-manager</a></td>
+  <td><a href="https://fascode.net/projects/linux/alter/">Alter Linux</a> i3wm 搭載エディションのための設定マネージャ</td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/MarkStudy">MarkStudy</a></td>
+  <td>学習特化をうたう、マークアップによる装飾が可能なテキストエディタ  </td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/TimeTree-NoticeBot">TimeTree-NoticeBot</a></td>
+  <td>TimeTreeの予定を取得し、Discordで通知  </td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/TimeTree-AddIvent">TimeTree-AddIvent</a></td>
+  <td>TimeTreeの指定したカレンダーに予定を追加  </td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/homepage">homepage</a></td>
+  <td>HTMLの練習として用意したホームページ（URLは<a href="https://watasuke.tk">こちら</a>）  </td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/watasuke102/mit-sushi-ware">MIT SUSHI-WARE LICENSE</a></td>
+  <td>MIT LICENSEとSUSHI-WARE LICENSEを合成<br>作者(著作権者)の著作権表示を残しつつソフトウェアを自由に利用可能</td>
+</tr>
+</table>
   
 ## Link
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
