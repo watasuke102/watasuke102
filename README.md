@@ -45,7 +45,7 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
     <td>学習特化をうたう、マークアップによる装飾が可能なテキストエディタ </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/watasuke102/TimeTree-NoticeBot">TimeTree-NoticeBot</a></td>
+    <td><a href="https://github.com/watasuke102/TimeTree-NoticeBot-rust">TimeTree-NoticeBot-rust</a></td>
     <td>TimeTreeの予定を取得し、Discordで通知 </td>
   </tr>
   <tr>
