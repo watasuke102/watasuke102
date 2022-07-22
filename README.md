@@ -11,7 +11,7 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
 ---
 
 ## ポートフォリオ
-**[こちら](https://watasuke.tk/portfolio)**
+**[こちら](https://watasuke.net/portfolio)**
 
 ## Skills 
   - C/C++
@@ -28,8 +28,8 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
     <td>クラス内で定期テスト対策問題などを共有する</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/watasuke102/watasuke.tk">homepage</a></td>
-    <td>Gatsby製のホームページ（URLは<a href="https://watasuke.tk">こちら</a>） </td>
+    <td><a href="https://github.com/watasuke102/watasuke.net">homepage</a></td>
+    <td>Gatsby製のホームページ（URLは<a href="https://watasuke.net">こちら</a>） </td>
   </tr>
   <tr>
     <td><a href="https://github.com/watasuke102/ExpNote">ExpNote</a></td>
