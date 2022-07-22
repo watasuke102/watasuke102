@@ -59,6 +59,6 @@ kosen20sの[わたすけ](https://twitter.com/Watasuke102) です
   
 ## Link
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
-  - HomePage: [わたすけのへや](https://watasuke.tk)  
+  - HomePage: [わたすけのへや](https://watasuke.net)  
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
