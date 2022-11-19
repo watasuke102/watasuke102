@@ -39,8 +39,13 @@ kosen20sの [わたすけ](https://twitter.com/Watasuke102) です
   - HomePage: [わたすけのへや](https://watasuke.net)  
   - Scrapbox: [watasuke](https://scrapbox.io/watasuke)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
-  - Youtube: [here](https://www.youtube.com/channel/UCAX7m91OThALVORxdyKEhNA)
-  
+  - Youtube: [@watasuke](https://www.youtube.com/@watasuke)
+
+## Notes
+
+- ライセンスの記載がないリポジトリは、MIT もしくは MIT SUSHI-WARE LICENSEとして扱ってください
+- お問い合わせの際は、できればTwitterのDMまでお願いします
+
   ---
     
 ![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight) ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
