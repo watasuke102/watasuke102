@@ -29,7 +29,7 @@ kosen20sの [わたすけ](https://twitter.com/Watasuke102) です
 | [discord-voicechat-notice](https://github.com/watasuke102/discord-voicechat-notice) | Discord のボイスチャットに誰かが入るとメッセージを送信                                                          |
 | [ExpNote](https://github.com/watasuke102/ExpNote)                                   | Flutter 製の簡易的な所持金管理アプリ                                                                            |
 | [MarkStudy](https://github.com/watasuke102/MarkStudy)                               | 学習特化をうたう、マークアップによる装飾が可能なテキストエディタ                                                |
-| [zigen](https://github.com/zigen-project)                                           | XR windowing system（2022 年度 未踏アドバンスト事業）                                                           |
+| [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022 年度 未踏アドバンスト事業）                                                           |
 | [seccamp_2022_riscv_cpu](https://github.com/watasuke102/seccamp_2022_riscv_cpu)     | セキュリティキャンプ 2022 Y4 RISC-V CPU 自作ゼミ で作成した CPU                                                 |
 | [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager)        | [Alter Linux](https://fascode.net/projects/linux/alter/) i3wm 搭載エディションのための設定マネージャ            |
 | [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成<br/>作者(著作権者)の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
