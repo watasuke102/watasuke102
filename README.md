@@ -25,6 +25,7 @@ kosen20sの [わたすけ](https://twitter.com/Watasuke102) です
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [TAGether](https://github.com/watasuke102/TAGether)                                 | クラス内で定期テスト対策問題などを共有する                                                                      |
 | [homepage](https://github.com/watasuke102/watasuke.net)                             | Gatsby 製の[ホームページ](https://watasuke.net/)                                                                |
+| [tetris-bevy](https://github.com/watasuke102/tetris-bevy)                           | Bevy学習のために作ったテトリス |
 | [measure-vehicle-distance](https://github.com/watasuke102/measure-vehicle-distance) | 台湾 (NUU) 留学中の研究成果                                                                                       |
 | [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022 年度 未踏アドバンスト事業）                                                           |
 | [seccamp_2022_riscv_cpu](https://github.com/watasuke102/seccamp_2022_riscv_cpu)     | セキュリティキャンプ 2022 Y4 RISC-V CPU 自作ゼミ で作成した CPU                                                 |
@@ -39,6 +40,9 @@ kosen20sの [わたすけ](https://twitter.com/Watasuke102) です
     <li><a href="https://github.com/watasuke102/ExpNote">ExpNote</a>：Flutter 製の簡易的な所持金管理アプリ</li>
     <li><a href="https://github.com/watasuke102/MarkStudy">MarkStudy</a>：学習特化をうたう、マークアップによる装飾が可能なテキストエディタ</li>
     <li><a href="https://github.com/FascodeNet/alterlinux-i3-manager">alterlinux-i3-manager</a>：Alter Linux i3wm 搭載エディションのための設定マネージャ</li>
+    <li><a href="https://github.com/watasuke102/2021-hny">2021-hny</a>：2021年の年賀状代わり</li>
+    <li><a href="https://github.com/watasuke102/TimeTree-AddIvent">TimeTree-AddIvent</a>：TimeTreeのイベント追加を行えるFlutter製アプリ</li>
+    <li><a href="https://github.com/watasuke102/SchoolFestSTG">SchoolFestSTG</a>：2019年の文化祭展示用に作ったSTG</li>
     <!--
     <li><a href=""></a>：</li>
     -->
