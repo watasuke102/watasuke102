@@ -51,9 +51,10 @@
   
 ## Links
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
-  - HomePage: [わたすけのへや](https://watasuke.net)  
+  - HomePage: [わたすけのへや](https://watasuke.net)
   - Scrapbox: [watasuke](https://scrapbox.io/watasuke)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
+  - Instagram: [@watasuke102](https://instagram.com/watasuke102)
   - Youtube: [@watasuke](https://www.youtube.com/@watasuke)
 
 ## Notes
