@@ -1,4 +1,8 @@
-# watasuke102
+<a href='https://watasuke.net' target='_blank'>
+  <img src='/assets/card.jpg' alt='profile card' />
+</a>
+
+---
 
 高専生の [わたすけ](https://twitter.com/Watasuke102) です
 
