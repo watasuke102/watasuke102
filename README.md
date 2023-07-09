@@ -39,6 +39,7 @@
 <details>
   <summary>その他</summary>
   <ul>
+    <li><a href="https://github.com/watasuke102/ImgRate"></a>ImgRate：お気に入りとコメントで即座に評価される画像ギャラリー</li>
     <li><a href="https://github.com/watasuke102/discord-voicechat-notice">discord-voicechat-notice</a>：Discord のボイスチャットに誰かが入るとメッセージを送信</li>
     <li><a href="https://github.com/watasuke102/2021-hny">2021-hny</a>：2021年の年賀状代わり</li>
     <li><a href="https://github.com/watasuke102/ExpNote">ExpNote</a>：Flutter 製の簡易的な所持金管理アプリ</li>
