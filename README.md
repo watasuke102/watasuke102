@@ -16,12 +16,13 @@
 - HCI
 - Low-layer
 
-## Skills 
-  - C
-    - (C++)
-  - Rust
-  - TypeScript
-    - React (Next.js, Gatsby)
+## Skills
+  
+- C
+  - (C++)
+- Rust
+- TypeScript
+  - React (Next.js, Gatsby)
 
 ## Projects
 
@@ -37,24 +38,22 @@
 | [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成<br/>作者(著作権者)の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
 
 <details>
-  <summary>その他</summary>
-  <ul>
-    <li><a href="https://github.com/watasuke102/ImgRate">ImgRate</a>：お気に入りとコメントで即座に評価される画像ギャラリー</li>
-    <li><a href="https://github.com/watasuke102/discord-voicechat-notice">discord-voicechat-notice</a>：Discord のボイスチャットに誰かが入るとメッセージを送信</li>
-    <li><a href="https://github.com/watasuke102/2021-hny">2021-hny</a>：2021年の年賀状代わり</li>
-    <li><a href="https://github.com/watasuke102/ExpNote">ExpNote</a>：Flutter 製の簡易的な所持金管理アプリ</li>
-    <li><a href="https://github.com/FascodeNet/alterlinux-i3-manager">alterlinux-i3-manager</a>：Alter Linux i3wm 搭載エディションのための設定マネージャ</li>
-    <li><a href="https://github.com/watasuke102/TimeTree-AddIvent">TimeTree-AddIvent</a>：TimeTreeのイベント追加を行えるFlutter製アプリ</li>
-    <li><a href="https://github.com/watasuke102/TimeTree-NoticeBot-rust">TimeTree-NoticeBot-rust</a>：TimeTree の予定を取得し、Discord で通知</li>
-    <li><a href="https://github.com/watasuke102/SchoolFestSTG">SchoolFestSTG</a>：2019年の文化祭展示用に作ったSTG</li>
-    <li><a href="https://github.com/watasuke102/MarkStudy">MarkStudy</a>：学習特化をうたう、マークアップによる装飾が可能なテキストエディタ</li>
-    <!--
-    <li><a href=""></a>：</li>
-    -->
-  </ul>
+<summary>その他</summary>
+
+- [ImgRate](https://github.com/watasuke102/ImgRate)：お気に入りとコメントによって画像が即座に評価される画像ギャラリー
+- [discord-voicechat-notice](https://github.com/watasuke102/discord-voicechat-notice)：Discord のボイスチャットに誰かが入るとメッセージを送信</li>
+- [2021-hny](https://github.com/watasuke102/2021-hny)：2021年の年賀状代わり</li>
+- [ExpNote](https://github.com/watasuke102/ExpNote)：Flutter 製の簡易的な所持金管理アプリ</li>
+- [alterlinux-i3-manager](https://github.com/FascodeNet/alterlinux-i3-manager)：Alter Linux i3wm 搭載エディションのための設定マネージャ</li>
+- [TimeTree-AddIvent](https://github.com/watasuke102/TimeTree-AddIvent)：TimeTreeのイベント追加を行えるFlutter製アプリ</li>
+- [TimeTree-NoticeBot-rust](https://github.com/watasuke102/TimeTree-NoticeBot-rust)：TimeTree の予定を取得し、Discord で通知</li>
+- [SchoolFestSTG](https://github.com/watasuke102/SchoolFestSTG)：2019年の文化祭展示用に作ったSTG</li>
+- [MarkStudy](https://github.com/watasuke102/MarkStudy)：学習特化をうたう、マークアップによる装飾が可能なテキストエディタ</li>
+
 </details>
   
 ## Links
+
   - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
   - HomePage: [わたすけのへや](https://watasuke.net)
   - Instagram: [@watasuke102](https://instagram.com/watasuke102)
