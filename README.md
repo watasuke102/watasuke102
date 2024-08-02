@@ -40,7 +40,9 @@
 <details>
 <summary>その他</summary>
 
+- [Remind4F](https://github.com/watasuke102/remind4f)：Discord経由でイベントまでの日数を通知
 - [ImgRate](https://github.com/watasuke102/ImgRate)：お気に入りとコメントによって画像が即座に評価される画像ギャラリー
+- [binlang](https://github.com/watasuke102/binlang)：基本的なビット演算機能を持つインタプリタ
 - [discord-voicechat-notice](https://github.com/watasuke102/discord-voicechat-notice)：Discord のボイスチャットに誰かが入るとメッセージを送信
 - [2021-hny](https://github.com/watasuke102/2021-hny)：2021年の年賀状代わり
 - [ExpNote](https://github.com/watasuke102/ExpNote)：Flutter 製の簡易的な所持金管理アプリ
@@ -60,6 +62,7 @@
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Scrapbox: [watasuke](https://scrapbox.io/watasuke)
   - YouTube: [@watasuke](https://www.youtube.com/@watasuke)
+  - Retrospring: [@watasuke](https://retrospring.net/@watasuke)
 
 ## Notes
 
