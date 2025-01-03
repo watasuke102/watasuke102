@@ -28,14 +28,15 @@
 
 | Repository name                                                                     | Summary |
 | ----------------------------------------------------------------------------------- | ------- |
-| [TAGether](https://github.com/watasuke102/TAGether)                                 | クラス内で定期テスト対策問題などを共有する |
-| [homepage](https://github.com/watasuke102/watasuke.net)                             | Gatsby製の[ホームページ](https://watasuke.net/) |
+| [homepage](https://github.com/watasuke102/watasuke.net)                             | Next.js 製の[ホームページ](https://watasuke.net/) |
+| [Settlang](https://github.com/watasuke102/settlang)                                 | mutability を setter の有無で表す静的型付き言語（[Playground](https://watasuke102.github.io/settlang/)） |
 | [dotfiles](https://github.com/watasuke102/dotfiles)                                 | zsh や neovim の設定ファイルを置いています |
+| [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022年度 未踏アドバンスト事業） |
+| [TAGether](https://github.com/watasuke102/TAGether)                                 | クラス内で定期テスト対策問題などを共有する |
+| [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成<br/>作者 (著作権者) の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
 | [tetris-bevy](https://github.com/watasuke102/tetris-bevy)                           | Bevy学習のために作ったテトリス |
 | [measure-vehicle-distance](https://github.com/watasuke102/measure-vehicle-distance) | 台湾 (NUU) 留学中の研究成果 |
-| [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022年度 未踏アドバンスト事業） |
 | [seccamp_2022_riscv_cpu](https://github.com/watasuke102/seccamp_2022_riscv_cpu)     | セキュリティ・キャンプ全国大会2022 Y4 (RISC-V CPU自作ゼミ) で作成した CPU |
-| [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成<br/>作者 (著作権者) の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
 
 <details>
 <summary>その他</summary>
