@@ -63,7 +63,7 @@
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Scrapbox: [watasuke](https://scrapbox.io/watasuke)
   - YouTube: [@watasuke](https://www.youtube.com/@watasuke)
-  - Retrospring: [@watasuke](https://retrospring.net/@watasuke)
+  - Mond (質問箱): [@watasuke102](https://mond.how/ja/watasuke102)
 
 ## Notes
 
