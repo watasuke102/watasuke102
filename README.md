@@ -26,9 +26,9 @@
 
 ## Projects
 
-| Repository name                                                                     | Summary |
+| Repository                                                                          | Summary |
 | ----------------------------------------------------------------------------------- | ------- |
-| [homepage](https://github.com/watasuke102/watasuke.net)                             | Next.js 製の[ホームページ](https://watasuke.net/) |
+| [homepage](https://github.com/watasuke102/watasuke.net)                             | [watasuke.net](https://watasuke.net/) で公開されている Next.js 製のホームページ<br/>ブログ記事エディタと Rust 製 CMS を含む monorepo |
 | [Settlang](https://github.com/watasuke102/settlang)                                 | mutability を setter の有無で表す静的型付き言語（[Playground](https://watasuke102.github.io/settlang/)） |
 | [dotfiles](https://github.com/watasuke102/dotfiles)                                 | zsh や neovim の設定ファイルを置いています |
 | [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022年度 未踏アドバンスト事業） |
