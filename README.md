@@ -57,7 +57,7 @@
   
 ## Links
 
-  - Twitter: [@Watasuke102](https://twitter.com/Watasuke102)  
+  - Twitter: [@watasuke1024](https://twitter.com/watasuke1024)  
   - HomePage: [わたすけのへや](https://watasuke.net)
   - Instagram: [@watasuke102](https://instagram.com/watasuke102)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
@@ -72,4 +72,4 @@
 
 ---
     
-![Watasuke's github stats](https://github-readme-stats.vercel.app/api?username=watasuke102&count_private=true&show_icons=true&theme=tokyonight) ![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watasuke102&layout=compact&theme=tokyonight)
+![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=watasuke102&bg_color=282c34&title_color=98c379&text_color=abb2bf)
