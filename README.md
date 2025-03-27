@@ -4,7 +4,7 @@
 
 ---
 
-高専生の [わたすけ](https://twitter.com/Watasuke102) です
+高専生の [わたすけ](https://twitter.com/watasuke1024) です
 
 - **[ポートフォリオ](https://watasuke.net/portfolio)**
 - [プロフィール詳細](https://watasuke.net/profile)
