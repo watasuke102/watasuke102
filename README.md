@@ -72,4 +72,4 @@
 
 ---
     
-![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=watasuke102&bg_color=282c34&title_color=98c379&text_color=abb2bf)
+![Watasuke's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=watasuke102&layout=compact&bg_color=282c34&title_color=98c379&text_color=abb2bf)
