@@ -4,7 +4,7 @@
 
 ---
 
-高専生の [わたすけ](https://twitter.com/watasuke1024) です
+[わたすけ](https://twitter.com/watasuke1024) (`/(わたすけ|watasuke(1024?)?)/)`) です
 
 - **[ポートフォリオ](https://watasuke.net/portfolio)**
 - [プロフィール詳細](https://watasuke.net/profile)
@@ -61,7 +61,7 @@
   - HomePage: [わたすけのへや](https://watasuke.net)
   - Instagram: [@watasuke102](https://instagram.com/watasuke102)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
-  - Scrapbox: [watasuke](https://scrapbox.io/watasuke)
+  - Cosense: [watasuke](https://cosen.se/watasuke)
   - YouTube: [@watasuke](https://www.youtube.com/@watasuke)
   - Mond (質問箱): [@watasuke102](https://mond.how/ja/watasuke102)
 
