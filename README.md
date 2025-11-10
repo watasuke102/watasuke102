@@ -1,13 +1,13 @@
-<a href='https://watasuke.net' target='_blank'>
+<a href='https://watasuke.net/' target='_blank'>
   <img src='/assets/card.jpg' alt='profile card' />
 </a>
 
 ---
 
-[わたすけ](https://twitter.com/watasuke1024) (`/(わたすけ|watasuke(1024?)?)/)`) です
+[わたすけ](https://twitter.com/watasuke1024) (`/(わたすけ|watasuke(1024?)?)/`) です
 
-- **[ポートフォリオ](https://watasuke.net/portfolio)**
-- [プロフィール詳細](https://watasuke.net/profile)
+- **[ポートフォリオ](https://watasuke.net/portfolio/)**
+- [プロフィール詳細](https://watasuke.net/profile/)
 
 ## Interests
 
@@ -58,7 +58,7 @@
 ## Links
 
   - Twitter: [@watasuke1024](https://twitter.com/watasuke1024)  
-  - HomePage: [わたすけのへや](https://watasuke.net)
+  - HomePage: [わたすけのへや](https://watasuke.net/)
   - Instagram: [@watasuke102](https://instagram.com/watasuke102)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
   - Cosense: [watasuke](https://cosen.se/watasuke)
