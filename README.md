@@ -6,15 +6,17 @@
 
 [わたすけ](https://twitter.com/watasuke1024) (`/(わたすけ|watasuke(1024?)?)/`) です
 
-- **[ポートフォリオ](https://watasuke.net/portfolio/)**
-- [プロフィール詳細](https://watasuke.net/profile/)
+- **[portfolio](https://watasuke.net/portfolio/)**
+- [profile](https://watasuke.net/profile/)
 
 ## Interests
 
-- Wearable computing
-- xR
+- **Portable Working Environment**
+- **xR**
 - HCI
 - Low-layer
+- Web (as an abstraction layer)
+  - WebAssembly, etc
 
 ## Skills
   
@@ -29,13 +31,13 @@
 | Repository                                                                          | Summary |
 | ----------------------------------------------------------------------------------- | ------- |
 | [homepage](https://github.com/watasuke102/watasuke.net)                             | [watasuke.net](https://watasuke.net/) で公開されている Next.js 製のホームページ<br/>ブログ記事エディタと Rust 製 CMS を含む monorepo |
+| [npump](https://github.com/watasuke102/npump)                                       | package.json に記述されたパッケージの新バージョン確認および更新をTUIで行えるRust製ツール |
+| [rezenter](https://github.com/watasuke102/rezenter)                                 | Next.js によるプレゼンテーションツール |
 | [Settlang](https://github.com/watasuke102/settlang)                                 | mutability を setter の有無で表す静的型付き言語（[Playground](https://watasuke102.github.io/settlang/)） |
 | [dotfiles](https://github.com/watasuke102/dotfiles)                                 | zsh や neovim の設定ファイルを置いています |
 | [zwin](https://github.com/zwin-project)                                             | XR windowing system（2022年度 未踏アドバンスト事業） |
 | [TAGether](https://github.com/watasuke102/TAGether)                                 | クラス内で定期テスト対策問題などを共有する |
-| [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成<br/>作者 (著作権者) の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
-| [tetris-bevy](https://github.com/watasuke102/tetris-bevy)                           | Bevy学習のために作ったテトリス |
-| [measure-vehicle-distance](https://github.com/watasuke102/measure-vehicle-distance) | 台湾 (NUU) 留学中の研究成果 |
+| [MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)             | MIT LICENSE と SUSHI-WARE LICENSE を合成したライセンス。作者 (著作権者) の著作権表示を残しつつ、ソフトウェアを自由に利用可能 |
 | [seccamp_2022_riscv_cpu](https://github.com/watasuke102/seccamp_2022_riscv_cpu)     | セキュリティ・キャンプ全国大会2022 Y4 (RISC-V CPU自作ゼミ) で作成した CPU |
 
 <details>
@@ -54,14 +56,14 @@
 - [MarkStudy](https://github.com/watasuke102/MarkStudy)：学習特化をうたう、マークアップによる装飾が可能なテキストエディタ
 
 </details>
-  
+
 ## Links
 
   - Twitter: [@watasuke1024](https://twitter.com/watasuke1024)  
   - HomePage: [わたすけのへや](https://watasuke.net/)
   - Instagram: [@watasuke102](https://instagram.com/watasuke102)
   - SoundCloud: [watasuke](https://soundcloud.com/watasuke)  
-  - Cosense: [watasuke](https://cosen.se/watasuke)
+  - Wiki (PKM) : [pkm.watasuke.net](https://pkm.watasuke.net)
   - YouTube: [@watasuke](https://www.youtube.com/@watasuke)
   - Mond (質問箱): [@watasuke102](https://mond.how/ja/watasuke102)
 
